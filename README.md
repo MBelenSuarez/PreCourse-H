@@ -1,2 +1,2 @@
 # PreCourse-H
-Este es un repositorio de prueba del modulo 2
+Este es un proyecto de prueba y como clonarlo a mi escritorio
